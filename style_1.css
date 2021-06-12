@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: powderblue;
+}
+img{
+    width: 400px;
+    height: 500px;
+    border: 2px solid royalblue;
+    border-radius: 100px;
+}
